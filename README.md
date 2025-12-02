@@ -257,8 +257,3 @@ minikube delete
 ### prometheus-memory-graph
 ![prometheus-memory-graph](Images/img3.png)
 ---
-
-
-## License
-
-[Add your license information here]
